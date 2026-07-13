@@ -1,1 +1,1 @@
-# cyber-lab-load-testing
+# cyberlab-load-testing
